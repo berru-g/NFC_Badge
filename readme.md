@@ -7,10 +7,14 @@
 ## Trois composants, aucune source d'alimentation, reprogrammable à l'infini.
 
 ![Schema NFC](./NFC-schema.png) 
+    **Schema NT3H2111**
 
 
 ![Badge NFC](./img/Scarabe-nfc-broche.png)
     **création d'une broche**
+
+![Badge NFC](./img/NFC_Scarabe_fonctionnel_V_pro.png)
+    **Version Color full avec la version pro**
 
 
 ![Badge NFC](./img/badge_nfc_berru.png)
